@@ -1,4 +1,4 @@
-# Thesis-Report-Template
+# Thesis-Report-LaTeX-Template
 
 This is a LaTeX template for lengthy reports, thesis, dissertations, lecture notes, etc. 
 
