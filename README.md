@@ -11,5 +11,4 @@ Also, there is no issue of label clash (while referencing) between two different
 \externaldocument[C1-]{chap1}
 \externaldocument[C2-]{chap2}
 
-in main.tex
-
+in "main.tex".
