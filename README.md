@@ -12,4 +12,6 @@ Also, any clash of labels being multiply defined in different source files can b
 
 \externaldocument[C2-]{chap2}"
 
-in "main.tex".
+in "main.tex". 
+
+So, the equation in chapt1.tex with the label "\label{a}" is referred to in "chap2.tex" by "Eqn. \eqref{C1-a}". Basically, "C1" and "C2" serves to distinguish the TeX file the equation is coming from.
